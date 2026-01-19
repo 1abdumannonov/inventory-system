@@ -1,0 +1,107 @@
+[
+  {
+    "id": "5af6d494-2a7b-4a40-b9ad-cb8e1f371247",
+    "productId": "90c2ff03-0471-47d2-a534-d94d441cebd9",
+    "type": "IN",
+    "quantity": 3,
+    "createdAt": "2026-01-07T20:54:32.561Z"
+  },
+  {
+    "id": "a8b011f2-4317-481e-8844-1db9990ec1dd",
+    "productId": "90c2ff03-0471-47d2-a534-d94d441cebd9",
+    "type": "IN",
+    "quantity": 5,
+    "createdAt": "2026-01-07T21:05:37.981Z"
+  },
+  {
+    "id": "d9cf500d-5aef-4e10-a156-9a12152adefa",
+    "productId": "90c2ff03-0471-47d2-a534-d94d441cebd9",
+    "type": "OUT",
+    "quantity": 2,
+    "createdAt": "2026-01-07T21:05:43.931Z"
+  },
+  {
+    "id": "cad01e39-a81b-48b9-8c66-fbccd171249a",
+    "productId": "90c2ff03-0471-47d2-a534-d94d441cebd9",
+    "type": "IN",
+    "quantity": 28,
+    "createdAt": "2026-01-08T05:57:55.978Z"
+  },
+  {
+    "id": "1ed0223b-6cc7-4cd5-a5ac-286c8a4f8542",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "type": "OUT",
+    "quantity": 11,
+    "createdAt": "2026-01-08T07:09:56.378Z"
+  },
+  {
+    "id": "eaac5260-eff8-451f-927b-ad7c0e4f6d1f",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "type": "OUT",
+    "quantity": 8,
+    "createdAt": "2026-01-11T14:34:36.734Z"
+  },
+  {
+    "id": "57677562-ad1e-4a5d-a374-18d2e91294f5",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "type": "OUT",
+    "quantity": 9,
+    "createdAt": "2026-01-11T14:35:04.228Z"
+  },
+  {
+    "id": "6d0d8721-e83d-40aa-a119-501ea7552d08",
+    "productId": "c0c11efb-24b3-4432-9438-d8cde00e02d0",
+    "productName": "Olma",
+    "type": "OUT",
+    "quantity": 15,
+    "createdAt": "2026-01-11T18:15:39.411Z"
+  },
+  {
+    "id": "b4d36169-dd3b-412b-b557-6a3530f83a3a",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "productName": "Uzum",
+    "type": "IN",
+    "quantity": 10,
+    "createdAt": "2026-01-18T18:54:11.022Z"
+  },
+  {
+    "id": "d3f453d6-bff3-42eb-b380-c36e4972765f",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "productName": "Uzum",
+    "type": "IN",
+    "quantity": 1,
+    "createdAt": "2026-01-18T18:54:22.110Z"
+  },
+  {
+    "id": "bb2ca966-501f-4b60-9d9c-e1b4031ce037",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "productName": "Uzum",
+    "type": "OUT",
+    "quantity": 3,
+    "createdAt": "2026-01-18T18:54:40.822Z"
+  },
+  {
+    "id": "dcacba67-30e0-46b1-bd5d-33cb572c3a81",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "productName": "Uzum",
+    "type": "OUT",
+    "quantity": 8,
+    "createdAt": "2026-01-18T18:56:53.927Z"
+  },
+  {
+    "id": "b4acb8f4-5a4f-4ece-a3f0-47aef901fae3",
+    "productId": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "productName": "Uzum",
+    "type": "IN",
+    "quantity": 11,
+    "createdAt": "2026-01-18T19:01:10.094Z"
+  },
+  {
+    "id": "537a1d98-8a1f-4a58-8286-0a63b79c07e7",
+    "productId": "c0c11efb-24b3-4432-9438-d8cde00e02d0",
+    "productName": "Olma",
+    "type": "IN",
+    "quantity": 8,
+    "createdAt": "2026-01-18T19:01:30.382Z"
+  }
+]

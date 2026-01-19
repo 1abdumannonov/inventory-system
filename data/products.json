@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bd7b1580-821b-4cac-9a47-e5990ad9eb95",
+    "name": "Uzum",
+    "category": "Meva",
+    "price": 12500,
+    "stock": 11
+  },
+  {
+    "id": "c0c11efb-24b3-4432-9438-d8cde00e02d0",
+    "name": "Olma",
+    "category": "Meva",
+    "price": 10000,
+    "stock": 11
+  }
+]

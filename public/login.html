@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inventory Login</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body class="login-page">
+  <div class="lang-switch">
+    <label for="lang-select-login" class="visually-hidden" data-i18n="lang_label">Language</label>
+    <select id="lang-select-login">
+      <option value="EN">EN</option>
+      <option value="UZ">UZ</option>
+      <option value="JP">JP</option>
+    </select>
+  </div>
+
+  <div class="login-card">
+    <div class="login-brand">
+      <span>◆</span>
+      <span>Inventory</span>
+    </div>
+    <h1 class="login-title" data-i18n="login_title">Welcome back</h1>
+    <p class="login-sub" data-i18n="login_sub">Sign in to manage your inventory with confidence.</p>
+
+    <form id="login-form">
+      <div class="form-group">
+        <label class="form-label" for="username" data-i18n="username_label">Username</label>
+        <input class="input" id="username" name="username" autocomplete="username" placeholder="admin" required />
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="password" data-i18n="password_label">Password</label>
+        <input class="input" id="password" name="password" type="password" autocomplete="current-password" placeholder="••••••" required />
+      </div>
+      <button type="submit" class="btn btn-primary" data-i18n="login_button">Sign in</button>
+      <div class="demo-hint" data-i18n="demo_hint">Demo: admin / admin</div>
+      <div class="text-error" id="login-error" aria-live="polite"></div>
+    </form>
+  </div>
+
+  <script src="/js/i18n.js"></script>
+  <script src="/js/login.js"></script>
+</body>
+</html>
