@@ -8,7 +8,7 @@ const exportRoutes = require('./routes/exportRoutes');
 const authMiddleware = require('./middleware/authMiddleware');
 
 const app = express();
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
@@ -45,5 +45,6 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Inventory API listening on port ${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
+
